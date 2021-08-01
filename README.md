@@ -66,3 +66,10 @@ How the program works:
    * 9. Print the measured times.
     
    * 10. Close connection. 
+
+Conclusion:
+
+The main difference between cubic and reno: (package window algorithms)
+The default cubic mode changes the size of its window (of the received traffic) in relation to the time function of the last received load,
+On the other hand, the reno algorithm enlarges and reduces its window in a narrower way.
+
